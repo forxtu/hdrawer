@@ -1,0 +1,1 @@
+export const TOGGLE_SIDEBAR = `layout/TOGGLE_SIDEBAR`

@@ -1,0 +1,1 @@
+export const SET_IS_FULLSCREEN = `actionBar/SET_IS_FULLSCREEN`

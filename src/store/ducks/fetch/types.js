@@ -1,0 +1,1 @@
+export const PUSH_TAGS_TO_LIST = `fetch/PUSH_TAGS_TO_LIST`
